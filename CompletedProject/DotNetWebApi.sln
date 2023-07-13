@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWebApi", "DotNetWebApi\DotNetWebApi.csproj", "{92926C13-E6E2-456F-9DE5-95C3B5EBFD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWebApi.Tests", "DotNetWebApi.Tests\DotNetWebApi.Tests.csproj", "{29E44188-DB8A-4998-A85A-F1EA09DB2681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92926C13-E6E2-456F-9DE5-95C3B5EBFD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92926C13-E6E2-456F-9DE5-95C3B5EBFD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92926C13-E6E2-456F-9DE5-95C3B5EBFD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92926C13-E6E2-456F-9DE5-95C3B5EBFD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E44188-DB8A-4998-A85A-F1EA09DB2681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E44188-DB8A-4998-A85A-F1EA09DB2681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E44188-DB8A-4998-A85A-F1EA09DB2681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E44188-DB8A-4998-A85A-F1EA09DB2681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
